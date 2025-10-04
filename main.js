@@ -11,3 +11,4 @@ function sendMail(body){
     btn.innerHTML="送信済み";
     }
 }
+
